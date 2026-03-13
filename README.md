@@ -18,7 +18,7 @@
   <tr>
     <td>
       <h3><img src="https://media.tenor.com/DpJdyKQKgYkAAAAi/cat-jump.gif" width="30"> About Me</h3>
-      I am a Bachelor of Computer Sciences graduate and software developer based in South Africa. I specialize in building high-stakes technical infrastructure, from Al-driven security engines to fintech platforms. 
+      I am a Bachelor of Computer Sciences graduate and software developer based in South Africa. I specialize in building high-stakes technical infrastructure, from Al-driven security engines to fintech platforms, as well as automating enterprise workflows using n8n and the Microsoft Power Platform (SharePoint, Teams, Power Apps). 
       <br/><br/>
       <b>Currently exploring:</b> Advanced Supabase architecture and SQL migrations.<br/>
       <b>Eager to work on:</b> Real-time hardware integrations and automated DevOps.<br/>
@@ -66,11 +66,19 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
+**Automation & Enterprise Tools:**
+<p>
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Platform-0078D4?style=flat-square&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/SharePoint-036C70?style=flat-square&logo=microsoftsharepoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white" />
+</p>
+
 <h3><img src="https://media.tenor.com/Bav2QWeveKgAAAAi/best-banana-cat.gif" width="30" height="30"> Current Projects</h3>
 
 - **Wayja:** Scaling a prediction market platform since Feb 2025. Focused on complex betting logic and secure financial systems.
 - **Neighborhood Bot:** Developing an AI-driven behavioral risk engine with real-time hardware webhooks.
-- **Project Echo:** A 7-month personal side project building a Lead Gen SaaS with Supabase and tiered AI generation.
+- **Project Echo:** A 7-month personal side project building a Lead Gen SaaS with Supabase, n8n automation, and tiered AI generation.
 - **REGGALI Gatekeeper Nifi:** Data engineer internship building high-throughput NiFi data pipelines in Lebanon/Dubai.
 
 <h3><img src="https://media.tenor.com/HAU_nZjbw9gAAAAi/cat-dance.gif" width="30"> GitHub Stats</h3>
