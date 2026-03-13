@@ -68,7 +68,7 @@
 
 <h3><img src="https://media.tenor.com/Bav2QWeveKgAAAAi/best-banana-cat.gif" width="30" height="30"> Current Projects</h3>
 
-- **Wayja:** Scaling a fintech platform since Feb 2025. Focused on complex bet logic and secure financial systems.
+- **Wayja:** Scaling a prediction market platform since Feb 2025. Focused on complex betting logic and secure financial systems.
 - **Neighborhood Bot:** Developing an AI-driven behavioral risk engine with real-time hardware webhooks.
 - **Project Echo:** A 7-month personal side project building a Lead Gen SaaS with Supabase and tiered AI generation.
 - **REGGALI Gatekeeper Nifi:** Data engineer internship building high-throughput NiFi data pipelines in Lebanon/Dubai.
