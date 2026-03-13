@@ -84,7 +84,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-<h3 align="center">👽 Alien Abducting My Contributions 🛸</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angxloooo/angxloooo/output/github-contribution-grid-snake-dark.svg">
