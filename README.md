@@ -24,7 +24,7 @@
       <b>Eager to work on:</b> Real-time hardware integrations and automated DevOps.<br/>
       <b>Outside tech:</b> I enjoy building complex LEGO sets, gaming, and learning new languages (currently on a 553-day Duolingo streak!).
       <br/><br/>
-      <b>Reach me:</b> angeloelhage906@gmail.com
+<b>Reach me:</b> Connect with me on <a href="https://www.linkedin.com/in/angelo-el-hage/">LinkedIn</a> or drop me an <a href="mailto:angeloelhage906@gmail.com">Email</a>!
     </td>
     <td width="25%">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94bm96Ym94bm96Ym94bm96Ym94bm96Ym94JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
@@ -78,9 +78,9 @@
 <h3><img src="https://media.tenor.com/Bav2QWeveKgAAAAi/best-banana-cat.gif" width="30" height="30"> Current Projects</h3>
 
 - **Wayja:** Scaling a prediction market platform since Feb 2025. Focused on complex betting logic and secure financial systems.
-- **Neighborhood Bot:** Developing an AI-driven behavioral risk engine with real-time hardware webhooks.
+- **Neighborhood Bot:** Developing an AI-driven neighborhood security platform powered by a behavioral risk scoring system. Features a core risk engine with real-time webhooks handling camera and facial recognition data.
 - **Project Echo:** A 7-month personal side project building a Lead Gen SaaS with Supabase, n8n automation, and tiered AI generation.
-- **REGGALI Gatekeeper Nifi:** Data engineer internship building high-throughput NiFi data pipelines in Lebanon/Dubai.
+- **REGGALI Gatekeeper Nifi:** Data engineer internship building high-throughput NiFi data pipelines for Vodacom, Africell and Orange.
 
 <h3><img src="https://media.tenor.com/HAU_nZjbw9gAAAAi/cat-dance.gif" width="30"> GitHub Stats</h3>
 
