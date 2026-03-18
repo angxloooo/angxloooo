@@ -85,8 +85,8 @@
 <h3><img src="https://media.tenor.com/HAU_nZjbw9gAAAAi/cat-dance.gif" width="30"> GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angxloooo&show_icons=true&theme=synthwave&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angxloooo&theme=synthwave&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=angxloooo&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angxloooo&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
