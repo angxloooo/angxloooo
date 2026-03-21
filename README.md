@@ -24,7 +24,7 @@
       <b>Eager to work on:</b> Real-time hardware integrations and automated DevOps.<br/>
       <b>Outside tech:</b> I enjoy building complex LEGO sets, gaming, and learning new languages (currently on a 553-day Duolingo streak!).
       <br/><br/>
-<b>Reach me:</b> Connect with me on <a href="https://www.linkedin.com/in/angelo-el-hage/">LinkedIn</a> or drop me an <a href="mailto:angeloelhage906@gmail.com">Email</a>!
+      <b>Reach me:</b> Connect with me on <a href="https://www.linkedin.com/in/angelo-el-hage/">LinkedIn</a> or drop me an <a href="mailto:angeloelhage906@gmail.com">Email</a>!
     </td>
     <td width="25%">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94bm96Ym94bm96Ym94bm96Ym94bm96Ym94JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
@@ -67,6 +67,12 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
+**AI & Simulation:**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raylib-000000?style=flat-square&logo=c&logoColor=white" />
+</p>
+
 **Automation & Enterprise Tools:**
 <p>
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
@@ -80,17 +86,26 @@
 - **Wayja:** Scaling a prediction market platform since Feb 2025. Focused on complex betting logic and secure financial systems.
 - **Neighborhood Bot:** Developing an AI-driven neighborhood security platform powered by a behavioral risk scoring system. Features a core risk engine with real-time webhooks handling camera and facial recognition data.
 - **Project Echo:** A 7-month personal side project building a Lead Gen SaaS with Supabase, n8n automation, and tiered AI generation.
+- **NeuroDrift:** A 2D top-down driving simulator where 100 cars learn to navigate dynamically changing tracks using PyTorch MLPs and neuroevolution (Genetic Algorithms).
 - **REGGALI Gatekeeper Nifi:** Data engineer internship building high-throughput NiFi data pipelines for Vodacom, Africell and Orange.
 
 <h3><img src="https://media.tenor.com/HAU_nZjbw9gAAAAi/cat-dance.gif" width="30"> GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angxloooo&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angxloooo&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=angxloooo&show_icons=true&theme=synthwave&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angxloooo&theme=synthwave&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
+
+<h3><img src="https://media.tenor.com/DpJdyKQKgYkAAAAi/cat-jump.gif" width="30"> Featured Repository</h3>
+
+<p align="center">
+  <a href="https://github.com/angxloooo/NeuroDrift">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angxloooo&repo=NeuroDrift&theme=synthwave&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
