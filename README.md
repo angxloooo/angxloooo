@@ -100,7 +100,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-<h3><img src="https://media.tenor.com/DpJdyKQKgYkAAAAi/cat-jump.gif" width="30"> Featured Repository</h3>
+<h3><img src="https://media.tenor.com/-E2dqWbhxgoAAAAm/cat-ruffles.webp" width="30"> Featured Repository</h3>
 
 <p align="center">
   <a href="https://github.com/angxloooo/NeuroDrift">
